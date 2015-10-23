@@ -1,5 +1,5 @@
 div,span,p {
-    width:140px;
+    width:160px;
     height:140px;
     margin:5px
     background: #aaa;
@@ -12,7 +12,7 @@ div,span,p {
 div.mini {
     width: 55px;
     height:55px;
-    background-color: #aaa;
+    background-color:#aaa;
     font-size:12px;
 }
 
